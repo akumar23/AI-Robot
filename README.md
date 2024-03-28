@@ -9,4 +9,4 @@ To run locally:
 3. Run `pip install -r requirements.txt`
 4. Run `python goal_seeking.py`
 
-You can view a video demo of the current progress of the project by clicking [here](/assets/demo.gif)
+Demo video of the current status of the project ![here](/assets/demo.gif)
